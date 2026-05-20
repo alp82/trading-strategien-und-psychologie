@@ -1,5 +1,7 @@
 # Trading Strategien und Psychologie
 
+### → [Live-Präsentation ansehen](https://alp82.github.io/trading-strategien-und-psychologie/)
+
 Eine Präsentation zu Trading-Strategien, Risikomanagement und der Psyche dahinter.
 
 70-90 % der Trader verlieren langfristig Geld. Nicht weil ihnen die Indikatoren fehlen - sondern Plan, Disziplin und Nerven. Genau darum geht's hier.
